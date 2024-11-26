@@ -61,36 +61,6 @@
     },
     {
         "@context": "https://schema.org",
-        "@type": "Product",
-        "name": "Logitech M705 Marathon Mouse",
-        "url": "https://www.bhphotovideo.com/c/product/728231-REG/Logitech_910_001935_M705_Marathon_Mouse.html",
-        "image": "https://www.bhphotovideo.com/images/fb/Logitech_910_001935_M705_Marathon_Mouse_728231.jpg",
-        "sku": "LOM705",
-        "mpn": "910-001935",
-        "description": "The <strong>Logitech M705 Marathon Mouse</strong> is a wireless mouse that affords comfortable, reliable control over your Mac or Windows-based desktop, notebook or netbook computer. It employs a USB receiver and laser tracking technology for precise, smooth tracking on just about any surface.<p>\r\n\r\nThis mouse offers a fast scrolling wheel and two buttons to allow you to navigate through documents and websites. Its sculpted, right-handed design allows for a natural hand position for comfortable everyday use. The Marathon Mouse is powered by two AA batteries that boast an estimated battery life of three years, depending on usage.",
-        "brand": {
-            "@type": "Brand",
-            "name": "Logitech"
-        },
-        "review": [],
-        "aggregateRating": {
-            "@type": "AggregateRating",
-            "ratingValue": 4.4,
-            "reviewCount": 95,
-            "bestRating": 5
-        },
-        "offers": {
-            "@type": "Offer",
-            "url": "https://www.bhphotovideo.com/c/product/728231-REG/Logitech_910_001935_M705_Marathon_Mouse.html",
-            "itemCondition": "https://schema.org/NewCondition",
-            "priceCurrency": "USD",
-            "price": "29.99",
-            "availability": "https://schema.org/InStock",
-            "priceValidUntil": null
-        }
-    },
-    {
-        "@context": "https://schema.org",
         "@type": "BreadcrumbList",
         "itemListElement": [
             {
