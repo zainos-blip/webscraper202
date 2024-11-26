@@ -256,36 +256,6 @@
     },
     {
         "@context": "https://schema.org",
-        "@type": "Product",
-        "name": "Logitech MK540 Advanced Wireless Mouse and Keyboard Bundle",
-        "url": "https://www.bhphotovideo.com/c/product/1432531-REG/logitech_920_008671_mk540_wireless_mouse_and.html",
-        "image": "https://www.bhphotovideo.com/images/fb/logitech_920_008671_mk540_wireless_mouse_and_1432531.jpg",
-        "sku": "LOMK540",
-        "mpn": "920-008671",
-        "description": "This <b>MK540 Advanced Wireless Mouse and Keyboard Bundle</b> from <b>Logitech</b> is a convenient solution for your computing needs. With wireless 2.4 GHz connectivity on both the keyboard and mouse, you won't have to worry about cable management or cords not being long enough. The keyboard features an integrated palm rest and adjustable feet for comfort while the mouse has a contoured, ambidextrous shape and soft rubber grips. Moreover, the spill-resistant keyboard features convenient and essential hotkeys for quick access to frequently used functions such as volume adjustments. Simply plug in the included Unifying USB receiver and you're all set. Both the keyboard and mouse use AA batteries and can last up to 36 and 18 months of use, respectively.",
-        "brand": {
-            "@type": "Brand",
-            "name": "Logitech"
-        },
-        "review": [],
-        "aggregateRating": {
-            "@type": "AggregateRating",
-            "ratingValue": 4.5,
-            "reviewCount": 43,
-            "bestRating": 5
-        },
-        "offers": {
-            "@type": "Offer",
-            "url": "https://www.bhphotovideo.com/c/product/1432531-REG/logitech_920_008671_mk540_wireless_mouse_and.html",
-            "itemCondition": "https://schema.org/NewCondition",
-            "priceCurrency": "USD",
-            "price": "39.99",
-            "availability": "https://schema.org/InStock",
-            "priceValidUntil": null
-        }
-    },
-    {
-        "@context": "https://schema.org",
         "@type": "BreadcrumbList",
         "itemListElement": [
             {
@@ -298,36 +268,6 @@
                 }
             }
         ]
-    },
-    {
-        "@context": "https://schema.org",
-        "@type": "Product",
-        "name": "Logitech MK270 Wireless Keyboard & Mouse Combo",
-        "url": "https://www.bhphotovideo.com/c/product/966360-REG/logitech_920_004536_mk270_wireless_combo.html",
-        "image": "https://www.bhphotovideo.com/images/fb/logitech_920_004536_mk270_wireless_combo_966360.jpg",
-        "sku": "LOMK270",
-        "mpn": "920-004536",
-        "description": "Keep your desktop clear of cable clutter while enjoying flexibility and comfort with the compact <b>Logitech MK270 Wireless Keyboard and Mouse Combo</b>. With its strong 2.4 GHz RF connection, you can operate this full-size keyboard and 3-button optical mouse combo from up to 30' away from the included USB Type-A wireless receiver, making it ideal for presentations, teaching, and environments with limited desktop space. Additionally, the height-adjustable ergonomic keyboard has a spill-resistant design and durable keys that help to ensure smooth typing experiences over the long term. Its easy to reach media keys allow you to quickly control video and music playback without interrupting your workflow. Best of all, the keyboard is designed to operate for up to 3 years using two AAA batteries while the mouse can stay powered for up to one year with one AA battery, depending on use. Both devices have on/off switches to help get the most out of the batteries. The Logitech MK270 Wireless Keyboard and Mouse Combo is compatible with Windows 10/11 and Chrome OS devices.",
-        "brand": {
-            "@type": "Brand",
-            "name": "Logitech"
-        },
-        "review": [],
-        "aggregateRating": {
-            "@type": "AggregateRating",
-            "ratingValue": 4.5,
-            "reviewCount": 131,
-            "bestRating": 5
-        },
-        "offers": {
-            "@type": "Offer",
-            "url": "https://www.bhphotovideo.com/c/product/966360-REG/logitech_920_004536_mk270_wireless_combo.html",
-            "itemCondition": "https://schema.org/NewCondition",
-            "priceCurrency": "USD",
-            "price": "19.99",
-            "availability": "https://schema.org/InStock",
-            "priceValidUntil": null
-        }
     },
     {
         "@context": "https://schema.org",
