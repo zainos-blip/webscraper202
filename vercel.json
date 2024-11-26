@@ -1,0 +1,13 @@
+{
+    "builds": [
+      {
+        "src": "static/code.js",
+        "use": "@vercel/static-build",
+        "config": {
+          "distDir": "build"
+        }
+      }
+    ],
+    "outputDirectory": "build"
+  }
+  
