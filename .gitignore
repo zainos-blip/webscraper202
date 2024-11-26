@@ -1,0 +1,17 @@
+# Python
+.venv/
+*.pyc
+*.pyo
+__pycache__/
+.venv
+# Node
+node_modules/
+
+# Log files
+*.log
+
+# Environment variable files
+.env
+
+# Tailwind build output
+tailwind.output.css
