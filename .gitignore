@@ -1,0 +1,20 @@
+# Python
+.venv/
+*.pyc
+*.pyo
+__pycache__/
+
+# Node
+node_modules/
+
+# macOS
+.DS_Store
+
+# Log files
+*.log
+
+# Environment variable files
+.venv
+
+# Tailwind build output
+tailwind.output.css
