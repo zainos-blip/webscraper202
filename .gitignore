@@ -3,18 +3,15 @@
 *.pyc
 *.pyo
 __pycache__/
-
+.venv
 # Node
 node_modules/
-
-# macOS
-.DS_Store
 
 # Log files
 *.log
 
 # Environment variable files
-.venv
+.env
 
 # Tailwind build output
 tailwind.output.css
