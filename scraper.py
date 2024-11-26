@@ -1,5 +1,4 @@
 from playwright.sync_api import sync_playwright, Playwright
-from rich import print
 import json
 
 def run(playwright: Playwright):
